@@ -1,2 +1,2 @@
 # cd
-https://cd.jdu.me iframe跳转页
+http://cd.kedo.me iframe跳转页
